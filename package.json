@@ -1,0 +1,17 @@
+{
+  "name": "vault-migration",
+  "version": "1.0.0",
+  "description": "Vault Migration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Smit Thakkar",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "mongodb": "^4.10.0",
+    "sqlite": "^4.1.2",
+    "sqlite3": "^5.1.2"
+  }
+}
